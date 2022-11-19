@@ -3,7 +3,7 @@ import random
 import time
 import datetime
 #если вы не знаете что вообще за токен то посмотрите мой первый ролик на эту тему https://www.youtube.com/watch?v=n-b6HJ5R1c4&feature=youtu.be
-token = ""
+token = "vk1.a.PXX04uQnwoyhB_bee_uXzLxYWLK0puNO13gt-3jtjVPR7ceYzff2n7K8LZZV-oX_dLLaek2C06qGObyBmbFuegjjxQwj1AF3P-Z3IsUwi1HI2JBlKztlv7rzi9Lmq4yLLt66zl_R3s-cvMifA-zU0m9bIzeX3ePVkvrOrINfl4xtKmOu5irWCx_YUA0q_G4S"
 
 
 vk = vk_api.VkApi(token=token)
